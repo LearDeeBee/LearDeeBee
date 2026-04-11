@@ -1,2 +1,2 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=html,freebsd&theme=dark)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freebsd/freebsd-original.svg" height="50" width="50" />
+<img src="https://skillicons.dev/icons?i=py,js,windows,visualstudio" height="50" /> <img src="https://cdn.simpleicons.org/freebsd/AB2B28" width="50" height="50" />
