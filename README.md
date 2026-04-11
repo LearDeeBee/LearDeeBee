@@ -1,2 +1,2 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,nodejs,discord,roblox,windows,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,py,powershell&theme=dark)](https://skillicons.dev)
