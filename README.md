@@ -1,4 +1,3 @@
-## Hi there 👋
-İ am LearDeeBee , im coding what i found .
-
+[## Hi there 👋
+](https://github.com/LearDeeBee)İ am LearDeeBee , im coding for old internet browsers and for nostalgia .
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,github&theme=light" height="50" />
