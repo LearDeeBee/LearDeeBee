@@ -7,6 +7,6 @@ The programming languages I know are:
 
 Projects I'm currently working on:
 
-## -Gemini4Life
+** -Gemini4Life
 
 Yes, there's only one right now, but stay tuned—I'm gathering ideas for new ones!🐝
