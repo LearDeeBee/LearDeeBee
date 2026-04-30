@@ -9,4 +9,4 @@ Projects I'm currently working on:
 
 <h3> -Gemini4Life </h3> 
 
-Yes, there's only one right now, but stay tuned—I'm gathering ideas for new ones!🐝
+Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!🐝
