@@ -4,3 +4,8 @@ Hello, I’m LearDeeBee. As a coding bee, while my friends give you honey, I’l
 The programming languages I know are:
 
 <img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" />  HTML <img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" />   CSS and <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="25" />  .JS family
+
+Projects I'm currently working on:
+**-Gemini4Life
+
+Yes, there's only one right now, but stay tuned—I'm gathering ideas for new ones!🐝
