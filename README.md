@@ -11,5 +11,9 @@ Projects I'm currently working on:
 
 Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!🐝
 
+
 My status:
+ 
+
+  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false&Background=3E3E3E&Title=FFE300&Text=FFFFFF&Ring=FFE300&Border=A19E7A&borderRadius=23">    <img  alt="LearDeeBee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/LearDeeBee?cardType=level&fontFamily=&preferLogin=false&Background=3E3E3E&Title=FFE300&Text=FFFFFF&Ring=FFE300&Border=A19E7A&borderRadius=23" />  </a>
