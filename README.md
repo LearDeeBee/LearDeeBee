@@ -9,7 +9,7 @@ Projects I'm currently working on:
 
 <h3> -Gemini4Life </h3> 
 
-Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!🐝<img src="https://media.tenor.com/z5G8-Xk8NsMAAAAi/minecraft-bee.gif" width="200" height="200">
+Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!🐝<img src="https://media.tenor.com/z5G8-Xk8NsMAAAAi/minecraft-bee.gif" width="100" height="100">
 
 
 
