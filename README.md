@@ -12,7 +12,7 @@ Projects I'm currently working on:
 Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!🐝
 
 
-<div class="tenor-gif-embed" data-postid="20558327" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bee-gif-20558327">Bee Sticker</a>from <a href="https://tenor.com/search/bee-stickers">Bee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/z5G8-Xk8NsMAAAAi/minecraft-bee.gif" width="200" height="200">
 
 
 
