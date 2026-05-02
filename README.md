@@ -10,6 +10,7 @@ Projects I'm currently working on:
 <h3> -Gemini4Life </h3> 
 
 Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!
+
 <img src="https://media.tenor.com/z5G8-Xk8NsMAAAAi/minecraft-bee.gif" width="70" height="70">
 
 
