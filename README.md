@@ -3,7 +3,7 @@ Hello, I’m LearDeeBee. As a coding bee, while my friends give you honey, I’l
 
 The programming languages I know are:
 
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" />  HTML <img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" />   CSS and <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="25" />  .JS family
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" />  HTML <img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" />   CSS and <img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="25" />  .JS 
 
 Projects I'm currently working on:
 <h3>Nothing(sorry :( )</h3>
