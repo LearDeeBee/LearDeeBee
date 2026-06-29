@@ -8,6 +8,6 @@ The programming languages I know are:
 Projects I'm currently working on:
 <h3>Nothing(sorry :( )</h3>
 
-Yes, there's only one right now, but stay tuned . I'm gathering ideas for new ones!
+Yes, there's only 0 right now, but stay tuned . I'm gathering ideas for new ones!
 
 <img src="https://media.tenor.com/z5G8-Xk8NsMAAAAi/minecraft-bee.gif" width="70" height="70">
